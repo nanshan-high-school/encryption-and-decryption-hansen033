@@ -46,5 +46,5 @@ int main()
 		cout << "\n如要繼續進行加解密動作請輸入0:";
 		cin >> watchdogs2;
 	}
-	
+	system("Pause")	
 }
